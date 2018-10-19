@@ -1,6 +1,6 @@
 <div align="center"><IMG SRC="true/img-2/ntdtvflower.jpg" width=800><br>
   
-新唐人视频 http://61.228.117.11</div>
+新唐人视频 http://220.141.117.129</div>
 
 <hr>
 
