@@ -1,5 +1,5 @@
 <div align="center"><IMG SRC="true/img-2/ntdtvflower.jpg" width=800>
-<h3>新唐人视频 http://220.141.119.96</h3></div>
+<h3>新唐人视频 http://111.241.94.69</h3></div>
 
 <hr>
 <h1><b><a href="https://git.io/zb">热门 三退大潮 觉醒之路</a></b></h1>
