@@ -1,10 +1,10 @@
 <div align="center"><IMG SRC="true/img-2/ntdtvflower.jpg" width=800>
 <h3>新唐人视频 http://61.228.117.125</h3></div>
-<div align="center"><IMG SRC="true/img-2/ntdtvflower.jpg" width=800>
+<div align="center"><IMG SRC="true/img-2/1-25.png" width=800>
   大陆	12/24/2018	Monday	首播	20:00
-12/25/2018	Tuesday	重播	10:00
-12/25/2018	Tuesday	重播	17:00
-12/31/2018	Monday	首播	13:00
+12/25/2018	Tuesday	重播	10:00<br>
+12/25/2018	Tuesday	重播	17:00<br>
+12/31/2018	Monday	首播	13:00<br>
 12/31/2018	Monday	重播	20:30
 <h3>新唐人视频 https://git.io/dici</h3></div>
 <hr>
