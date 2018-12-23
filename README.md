@@ -1,5 +1,5 @@
 <div align="center"><IMG SRC="true/img-2/ntdtvflower.jpg" width=800>
-<h3>新唐人视频 http://61.228.117.125</h3></div>
+<h3>新唐人视频 http://220.141.121.162</h3></div>
 <div align="center"><IMG SRC="true/img-2/1-25.png" width=800>
 <h3> 大陆</h3>
 12/24/2018	Monday	首播	20:00<br>
