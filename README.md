@@ -1,7 +1,16 @@
 <div align="center"><IMG SRC="true/img-2/ntdtvflower.jpg" width=800>
 <h3>新唐人视频 http://220.141.120.7</h3></div>
 
+
+ <div align="center"><IMG SRC="GCC/img/2019-newshow-2.jpg" width=800></div>
+	 
+ <div align="center"><h1>神韵演出特别报导 http://sy.epub.vin/sy/</h1></div><p>
+  
 <hr>
+<h1><b><a href="https://git.io/ict">【预告】新唐人中国新年期间独家播出2019全球华人新年晚会</a></b></h1>
+
+<h1><b><a href="https://git.io/zb">热门 三退大潮 觉醒之路</a></b></h1>
+
 <h1><b><a href="https://git.io/zb">热门 三退大潮 觉醒之路</a></b></h1>
 
 <h1><b><a href="https://git.io/kkssos">九评引发三退大潮 如何三退</a></b></h1>
