@@ -2,7 +2,7 @@
 <h3>新唐人视频 http://220.141.120.7</h3></div>
 
 
- <div align="center"><IMG SRC="GCC/img/2019-newshow-2.jpg" width=800></div>
+ <div align="center"><IMG SRC="GCC/img-2/2019-newshow-2.jpg" width=800></div>
 	 
  <div align="center"><h1>神韵演出特别报导 http://sy.epub.vin/sy/</h1></div><p>
   
