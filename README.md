@@ -1,5 +1,5 @@
 <div align="center"><IMG SRC="true/img-2/ntdtvflower.jpg" width=800>
-<h3>新唐人视频 http://61.228.112.116</h3></div>
+<h3>新唐人视频 http://220.141.139.204</h3></div>
   
 <hr>
 
