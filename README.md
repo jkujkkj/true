@@ -3,8 +3,6 @@
   
 <div align="center"><IMG SRC="true/img-2/0215-1-ict.jpg" width=800>
 
-<div align="center"><IMG SRC="img-2/0215-1-ict.jpg" width=800>
-
 <h3><b>神韵演出特别报导 http://sy.epub.vin/sy</b></h3>
 
 <h1><b><a href="https://git.io/sss">【预告】新唐人元宵节将播神韵晚会及音乐会 https://git.io/sss</a></b></h1></div>
