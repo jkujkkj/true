@@ -5,7 +5,6 @@
 
 <h1><b>神韵演出特别报导 http://sm3.epub.vin/sy</b></h1>
 
-<h1><b><a href="https://git.io/sss">【预告】新唐人元宵节将播神韵晚会及音乐会 https://git.io/sss</a></b></h1></div>
 <hr>
 
 <h1><b><a href="https://git.io/9m">《九评共产党》</a></b></h1>
