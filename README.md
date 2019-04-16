@@ -9,6 +9,8 @@
 
 <h1><b><a href="https://git.io/9m">《九评共产党》</a></b></h1>
 
+<h1><b><a href="https://git.io/ssss2">“世纪骗局”</a></b></h1>
+
 <h1><b><a href="https://git.io/ssbbaaa">群体灭绝罪、反人类罪、酷刑罪</a></b></h1>
 
 <h1><b><a href="https://git.io/zb">热门 三退大潮 觉醒之路</a></b></h1>
