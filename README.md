@@ -1,5 +1,5 @@
 <div align="center"><IMG SRC="true/img-2/ntdtvflower.jpg" width=800>
-<h3>新唐人视频 http://118.161.251.139</h3></div>
+<h3>新唐人视频 http://114.43.34.79</h3></div>
   
 <div align="center"><IMG SRC="true/img-2/1901162019452124-600x400.jpg" width=800>
 
@@ -10,6 +10,16 @@
 <h1><b><a href="https://git.io/9m">《九评共产党》</a></b></h1>
 
 <h1><b><a href="https://git.io/ssss2">“世纪骗局”</a></b></h1>
+
+<h1><b><a href="https://git.io/ssss2">真相渐明 疑点大曝光</a></b></h1>
+
+<h1><b><a href="https://git.io/zf">“天安门自焚”真相</a></b></h1>
+
+<h1><b><a href="https://git.io/55">“四•二五”上访真相</a></b></h1>
+
+<h1><b><a href="https://git.io/1400">“1400例”真相</a></b></h1>
+
+<h1><b><a href="https://git.io/4yu">“活摘”真相</a></b></h1>
 
 <h1><b><a href="https://git.io/ssbbaaa">群体灭绝罪、反人类罪、酷刑罪</a></b></h1>
 
@@ -22,6 +32,16 @@
 <h1><b><a href="https://git.io/zbaaas">平安秘诀</a></b></h1>
 
 <h1><b><a href="https://git.io/zaasfa">藏字石</a></b></h1>
+
+<h1><b><a href="https://git.io/stpa">真相传单：三退与平安</a></b></h1>
+
+<h1><b><a href="https://git.io/3w">三亿人退出中共</a></b></h1>
+
+<h1><b><a href="https://git.io/3th">“三退”才能上“方舟”</a></b></h1>
+
+<h1><b><a href="https://git.io/ykkk">探询真相 兼听则明</a></b></h1>
+
+<h1><b><a href="https://git.io/ffq">免费突破封锁翻墙软件</a></b></h1>
 
 <h1><b><a href="https://git.io/3f">手机上好看的电子书（ePub版）</a></b></h1>
 
@@ -47,26 +67,6 @@
 
 <h1><b><a href="https://git.io/Sing">磨难中铸就辉煌</a></b></h1>
 
-<h1><b><a href="https://git.io/ykkk">探询真相 兼听则明</a></b></h1>
-
-<h1><b><a href="https://git.io/ssss2">真相渐明 疑点大曝光</a></b></h1>
-
-<h1><b><a href="https://git.io/zf">“天安门自焚”真相</a></b></h1>
-
-<h1><b><a href="https://git.io/55">“四•二五”上访真相</a></b></h1>
-
-<h1><b><a href="https://git.io/1400">“1400例”真相</a></b></h1>
-
-<h1><b><a href="https://git.io/4yu">“活摘”真相</a></b></h1>
-
-<h1><b><a href="https://git.io/stpa">真相传单：三退与平安</a></b></h1>
-
-<h1><b><a href="https://git.io/3w">三亿人退出中共</a></b></h1>
-
-<h1><b><a href="https://git.io/3th">“三退”才能上“方舟”</a></b></h1>
-
-<h1><b><a href="https://git.io/ffq">免费突破封锁翻墙软件</a></b></h1>
-
 <h1><b><a href="https://git.io/zxtk1">澄清谎言与疑问</a></b></h1>
 
 <h1><b><a href="https://git.io/DWDW">中国禁闻</a></b></h1>
@@ -84,6 +84,10 @@
 <h1><b><a href="https://git.io/gzsls">中国良心 高智晟</a></b></h1>
 
 <h1><b><a href="https://git.io/yer">一位律师的肺腑直言：我为什么发自内心敬佩法轮功</a></b></h1>
+
+<h1><b><a href="https://github.com/no1show/show1/blob/master/gcdsy.md">评《共产党宣言》</a></b></h1>
+
+<h1><b><a href="https://github.com/no1show/show1/blob/master/whss.md">中共意识形态之理性批判</a></b></h1>
 
 <h1><b><a href="https://git.io/jdd">近代故事</a></b></h1>
 
