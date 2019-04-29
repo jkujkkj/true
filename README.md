@@ -1,5 +1,5 @@
 <div align="center"><IMG SRC="true/img-2/ntdtvflower.jpg" width=800>
-<h3>新唐人视频 http://114.37.71.239</h3></div>
+<h3>新唐人视频 http://118.161.50.218</h3></div>
   
 <div align="center"><IMG SRC="true/img-2/1901162019452124-600x400.jpg" width=800>
 
@@ -46,6 +46,8 @@
 <h1><b><a href="https://git.io/ffq">免费突破封锁翻墙软件</a></b></h1>
 
 <h1><b><a href="https://git.io/3f">手机上好看的电子书（ePub版）</a></b></h1>
+
+<h1><b><a href="https://github.com/3fmd/gm/blob/master/mhzb.md">明慧周报大陆版（ePub版）</a></b></h1>
 
 <h1><b><a href="https://git.io/ming2">真相驿站 电子书免费阅读 国内看不到的讯息，免翻墙轻松阅读</a></b></h1>
 
