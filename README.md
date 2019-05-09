@@ -89,6 +89,8 @@
 
 <h1><b><a href="https://git.io/yer">一位律师的肺腑直言：我为什么发自内心敬佩法轮功</a></b></h1>
 
+<h1><b><a href="https://github.com/goodabc/GCC/blob/master/xgpl.md">《共产主义的终极目的》的相关话题</a></b></h1>
+
 <h1><b><a href="https://github.com/no1show/show1/blob/master/gcdsy.md">评《共产党宣言》</a></b></h1>
 
 <h1><b><a href="https://github.com/no1show/show1/blob/master/whss.md">中共意识形态之理性批判</a></b></h1>
