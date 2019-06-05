@@ -3,7 +3,7 @@
 
 <hr>
 
-<h1><b><a href="https://git.io/9m">《九评共产党》</a></b></h1>
+<h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">美严审人权迫害者签证</a></b></h1>
 
 <h1><b><a href="https://git.io/ykykyk">纪念四·二五</a></b></h1>
 
@@ -46,6 +46,8 @@
 <h1><b><a href="https://github.com/3fmd/gm/blob/master/mhzb.md">明慧周报大陆版（ePub版）</a></b></h1>
 
 <h1><b><a href="https://git.io/ming2">真相驿站</a></b></h1>
+
+<h1><b><a href="https://git.io/9m">《九评共产党》</a></b></h1>
 
 <h1><b><a href="https://git.io/goal">《共产主义的终极目的——中国篇》</a></b></h1>
 
