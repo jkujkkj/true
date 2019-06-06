@@ -5,11 +5,39 @@
 
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">红潮即将倾覆  天之将明</a></b></h1>
 
+<h1><b><a href="https://git.io/n99">热门時事、评论</a></b></h1>
+
+<h1><b><a href="https://git.io/wnn">小之分享</a></b></h1>
+
+<h1><b><a href="https://git.io/birdf">真相分享</a></b></h1>
+
+<h1><b><a href="https://git.io/ssbbaaa">群体灭绝罪、反人类罪、酷刑罪</a></b></h1>
+
+<h1><b><a href="https://git.io/zb">热门 三退大潮 觉醒之路</a></b></h1>
+
+<h1><b><a href="https://github.com/bcdz/true01/blob/master/msos.md">上天在救人 你看懂了吗?</a></b></h1>
+
+<h1><b><a href="https://git.io/kkssos">九评引发三退大潮 如何三退</a></b></h1>
+
+<h1><b><a href="https://git.io/3w">三亿人退出中共</a></b></h1>
+
+<h1><b><a href="https://git.io/3th">“三退”才能上“方舟”</a></b></h1>
+
+<h1><b><a href="https://git.io/zbaaas">平安秘诀</a></b></h1>
+
+<h1><b><a href="https://git.io/zaasfa">藏字石</a></b></h1>
+
+<h1><b><a href="https://git.io/stpa">真相传单：三退与平安</a></b></h1>
+
+<h1><b><a href="https://git.io/ykkk">探询真相 兼听则明</a></b></h1>
+
+<h1><b><a href="https://git.io/ming2">真相驿站</a></b></h1>
+
+<h1><b><a href="https://git.io/ssss2">真相渐明 疑点大曝光</a></b></h1>
+
 <h1><b><a href="https://git.io/ykykyk">纪念四·二五</a></b></h1>
 
 <h1><b><a href="https://git.io/ssss2">“世纪骗局”</a></b></h1>
-
-<h1><b><a href="https://git.io/ssss2">真相渐明 疑点大曝光</a></b></h1>
 
 <h1><b><a href="https://git.io/zf">“天安门自焚”真相</a></b></h1>
 
@@ -19,47 +47,7 @@
 
 <h1><b><a href="https://git.io/4yu">“活摘”真相</a></b></h1>
 
-<h1><b><a href="https://git.io/ssbbaaa">群体灭绝罪、反人类罪、酷刑罪</a></b></h1>
-
-<h1><b><a href="https://git.io/zb">热门 三退大潮 觉醒之路</a></b></h1>
-
-<h1><b><a href="https://git.io/kkssos">九评引发三退大潮 如何三退</a></b></h1>
-
-<h1><b><a href="https://github.com/bcdz/true01/blob/master/msos.md">上天在救人 你看懂了吗?</a></b></h1>
-
-<h1><b><a href="https://git.io/zbaaas">平安秘诀</a></b></h1>
-
-<h1><b><a href="https://git.io/zaasfa">藏字石</a></b></h1>
-
-<h1><b><a href="https://git.io/stpa">真相传单：三退与平安</a></b></h1>
-
-<h1><b><a href="https://git.io/3w">三亿人退出中共</a></b></h1>
-
-<h1><b><a href="https://git.io/3th">“三退”才能上“方舟”</a></b></h1>
-
-<h1><b><a href="https://git.io/ykkk">探询真相 兼听则明</a></b></h1>
-
-<h1><b><a href="https://git.io/ffq">免费突破封锁翻墙软件</a></b></h1>
-
-<h1><b><a href="https://git.io/3f">手机上好看的电子书（ePub版）</a></b></h1>
-
-<h1><b><a href="https://github.com/3fmd/gm/blob/master/mhzb.md">明慧周报大陆版（ePub版）</a></b></h1>
-
-<h1><b><a href="https://git.io/ming2">真相驿站</a></b></h1>
-
-<h1><b><a href="https://git.io/9m">《九评共产党》</a></b></h1>
-
-<h1><b><a href="https://git.io/goal">《共产主义的终极目的——中国篇》</a></b></h1>
-
-<h1><b><a href="https://git.io/goal-2">《魔鬼在统治着我们的世界》</a></b></h1>
-
-<h1><b><a href="https://git.io/n99">热门時事、评论</a></b></h1>
-
 <h1><b><a href="https://git.io/kkopop">中国禁闻</a></b></h1>
-
-<h1><b><a href="https://git.io/wnn">小之分享</a></b></h1>
-
-<h1><b><a href="https://git.io/birdf">真相分享</a></b></h1>
 
 <h1><b><a href="https://git.io/02">法轮大法好真相</a></b></h1>
 
@@ -71,11 +59,21 @@
 
 <h1><b><a href="https://git.io/zxtk1">澄清谎言与疑问</a></b></h1>
 
-<h1><b><a href="https://git.io/DWDW">中国禁闻</a></b></h1>
-
 <h1><b><a href="https://git.io/Ju2">千古奇冤</a></b></h1>
 
 <h1><b><a href="https://git.io/perhi">迫害大法弟子遭恶报</a></b></h1>
+
+<h1><b><a href="https://git.io/ffq">免费突破封锁翻墙软件</a></b></h1>
+
+<h1><b><a href="https://git.io/3f">手机上好看的电子书（ePub版）</a></b></h1>
+
+<h1><b><a href="https://github.com/3fmd/gm/blob/master/mhzb.md">明慧周报大陆版（ePub版）</a></b></h1>
+
+<h1><b><a href="https://git.io/9m">《九评共产党》</a></b></h1>
+
+<h1><b><a href="https://git.io/goal">《共产主义的终极目的——中国篇》</a></b></h1>
+
+<h1><b><a href="https://git.io/goal-2">《魔鬼在统治着我们的世界》</a></b></h1>
 
 <h1><b><a href="https://github.com/dfchunsring/drdr/blob/master/README.md">江泽民为何要迫害法轮功？</a></b></h1>
 
