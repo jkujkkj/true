@@ -1,5 +1,5 @@
 <div align="center"><IMG SRC="true/img-2/ntdtvflower.jpg" width=800>
-<h3>新唐人视频 http://111.240.64.57</h3></div>
+<h3>新唐人视频 http://114.37.64.122</h3></div>
 
 <hr>
 
@@ -10,6 +10,8 @@
 <h1><b><a href="https://git.io/wnn">小之分享</a></b></h1>
 
 <h1><b><a href="https://git.io/birdf">真相分享</a></b></h1>
+
+<h1><b><a href="https://git.io/kkopop">中国禁闻</a></b></h1>
 
 <h1><b><a href="https://git.io/ssbbaaa">群体灭绝罪、反人类罪、酷刑罪</a></b></h1>
 
@@ -31,6 +33,8 @@
 
 <h1><b><a href="https://git.io/ykkk">探询真相 兼听则明</a></b></h1>
 
+<h1><b><a href="https://git.io/zxtk1">澄清谎言与疑问</a></b></h1>
+
 <h1><b><a href="https://git.io/ming2">真相驿站</a></b></h1>
 
 <h1><b><a href="https://git.io/ssss2">真相渐明 疑点大曝光</a></b></h1>
@@ -47,8 +51,6 @@
 
 <h1><b><a href="https://git.io/4yu">“活摘”真相</a></b></h1>
 
-<h1><b><a href="https://git.io/kkopop">中国禁闻</a></b></h1>
-
 <h1><b><a href="https://git.io/02">法轮大法好真相</a></b></h1>
 
 <h1><b><a href="https://git.io/cvs">法轮大法洪传世界</a></b></h1>
@@ -56,8 +58,6 @@
 <h1><b><a href="https://git.io/kkdada">他们的改变来自法轮大法</a></b></h1>
 
 <h1><b><a href="https://git.io/Sing">磨难中铸就辉煌</a></b></h1>
-
-<h1><b><a href="https://git.io/zxtk1">澄清谎言与疑问</a></b></h1>
 
 <h1><b><a href="https://git.io/Ju2">千古奇冤</a></b></h1>
 
