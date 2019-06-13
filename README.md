@@ -1,5 +1,5 @@
 <div align="center"><IMG SRC="true/img-2/ntdtvflower.jpg" width=800>
-<h3>新唐人视频 http://114.37.64.122</h3></div>
+<h3>新唐人视频 http://118.161.138.80</h3></div>
 
  <div align="center"><IMG SRC="true/img-2/b_illust_103_0M.png" width=580></div></p>
   <div align=center>
@@ -23,7 +23,7 @@
 
 </table>
 
-<div align="center"><IMG SRC="true/img-2/b_illust_103_0M.png" width=580></div></p>
+<div align="center"><IMG SRC="true/img/b_illust_103_0M.png" width=580></div></p>
 
 
 
@@ -55,7 +55,7 @@
 
 </table>
 
-<div align="center"><IMG SRC="true/img-2/b_illust_103_0M.png" width=580></div></p>
+<div align="center"><IMG SRC="true/img/b_illust_103_0M.png" width=580></div></p>
 
 
 <table>
@@ -84,7 +84,7 @@
 
 </table>
 
-<div align="center"><IMG SRC="true/img-2/b_illust_103_0M.png" width=580></div></p>
+<div align="center"><IMG SRC="true/img/b_illust_103_0M.png" width=580></div></p>
 
 <table>
 <tr><td width=900><h3><b><a href="https://git.io/02">➤ 法轮大法好真相</a></b></h3></tr>
@@ -102,7 +102,7 @@
 
 </table>
 
-<div align="center"><IMG SRC="true/img-2/b_illust_103_0M.png" width=580></div></p>
+<div align="center"><IMG SRC="true/img/b_illust_103_0M.png" width=580></div></p>
 
 <table>
 <tr><td width=900><h3><b><a href="https://github.com/dfchunsring/drdr/blob/master/README.md">➤ 江泽民为何要迫害法轮功？</a></b></h3></tr>
@@ -117,7 +117,7 @@
 </td>
 </table>
 
-<div align="center"><IMG SRC="true/img-2/b_illust_103_0M.png" width=580></div></p>
+<div align="center"><IMG SRC="true/img/b_illust_103_0M.png" width=580></div></p>
 
 <table>
 <tr><td width=900><h3><b><a href="https://git.io/3f">➤ 手机上好看的电子书（ePub版）</a></b></h3></tr>
@@ -129,7 +129,7 @@
 </table>
 
 
-<div align="center"><IMG SRC="true/img-2/b_illust_103_0M.png" width=580></div></p>
+<div align="center"><IMG SRC="true/img/b_illust_103_0M.png" width=580></div></p>
 
 <table>
 <tr><td width=900><h3><b><a href="https://git.io/9m">➤《九评共产党》</a></b></h3></tr>
@@ -147,7 +147,7 @@
 </table>
 
 
-<div align="center"><IMG SRC="true/img-2/b_illust_103_0M.png" width=580></div></p>
+<div align="center"><IMG SRC="true/img/b_illust_103_0M.png" width=580></div></p>
 
 <table>
 <tr><td width=900><h3><b><a href="https://git.io/cgys">➤ 千古英雄人物</a></b></h3></tr>
@@ -159,6 +159,6 @@
 </table>
 
 
-<div align="center"><IMG SRC="true/img-2/b_illust_103_0M.png" width=580></div></p>
+<div align="center"><IMG SRC="true/img/b_illust_103_0M.png" width=580></div></p>
 
 
